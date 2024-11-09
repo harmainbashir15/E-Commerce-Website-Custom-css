@@ -13,7 +13,7 @@ export default function Hero() {
             Slash the mortgage admin with Middle. Deliver everything your broker
             needs in minutes.
           </p>
-          <p>Don't have a Middle invite?</p>
+          <p>Dont have a Middle invite?</p>
         </div>
         <div className="">
           <Image
